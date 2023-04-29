@@ -8,22 +8,6 @@
 
 <h1 align="center">Bov Control App</h1>
 
-<p align="center">
-  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/chrismantins/bov-control-app?color=56BEB8">
-
-  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/chrismantins/bov-control-app?color=56BEB8">
-
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/chrismantins/bov-control-app?color=56BEB8">
-
-  <img alt="Licença" src="https://img.shields.io/github/license/chrismantins/bov-control-app?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/chrismantins/bov-control-app?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/chrismantins/bov-control-app?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/chrismantins/bov-control-app?color=56BEB8" /> -->
-</p>
-
 <!-- Status -->
 
 <!-- <h4 align="center">
@@ -91,10 +75,6 @@ $ npx expo run:ios
 ```
 
 O projeto usa recursos nativos, por isso nao pode ser rodado utilizando o Expo GO.
-
-## :memo: Licença
-
-Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 Feito com :heart: por <a href="https://github.com/chrismantins" target="_blank">Christian Martins</a>
 
